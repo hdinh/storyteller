@@ -1,4 +1,4 @@
-(ns storyteller-backend.core)
+(ns storyteller.core)
 
 (defn foo
   "I don't do a whole lot."
